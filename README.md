@@ -36,9 +36,9 @@ Execute the Jupyter Notebook rumor_label_prediction.ipynb to train models and sa
 Use the saved model (linear_svc_model.pkl) for prediction by providing input text.
 
 Contributors:
-Pallaka chakradhar
-Paidi Ramyasri
-Kakunuri Naga jyothi
+1.Pallaka chakradhar
+2.Paidi Ramyasri
+3.Kakunuri Naga jyothi
 
 Contact:
 For any inquiries or suggestions, feel free to contact chakradharp025@gmail.com or open an issue in the repository.
