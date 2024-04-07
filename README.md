@@ -23,8 +23,8 @@ Model Serialization:
 Save the trained LinearSVC model as a pickle file (rumor_classifier.pkl) using the pickle module.
 Model Deployment:
 
-Load the serialized model from rumor_classifier.pkl for inference(streamlit).
-Use the loaded model to make predictions on new text data.
+Load the serialized model from rumor_classifier.pkl into rumor_classification_app.py and run stramlit run rumor_classification_app.py
+in command prompt to make classification of rumors.
 Requirements:
 Python 3.x
 Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, streamlit
