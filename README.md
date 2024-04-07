@@ -1,5 +1,5 @@
 Title:
-Predicting Rumor Labels using Machine Learning Models
+Classification of Rumor Labels using Machine Learning Models
 
 Description:
 This repository contains code for training and evaluating various machine learning models to predict rumor labels based on text data. The models are trained on a dataset (newdataset.csv) containing text samples and corresponding rumor labels.
